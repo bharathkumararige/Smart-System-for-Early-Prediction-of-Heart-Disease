@@ -1,0 +1,14 @@
+# Python-specific exclusions
+
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+*.pyc
+.DS_Store
+*.egg-info/
+*.eggs/
+*.log
+*.sqlite3
+*.py[cod]
+*~
